@@ -39,7 +39,6 @@
 
 .right-panel {
   margin-left: 75%;
-  margin-top: 80px;
   max-width: 60%; /* Ancho del contenedor al 50% de la pantalla */
   min-height: 100vh;
   background-color: #dddcdc; /* Color de fondo gris */
