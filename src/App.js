@@ -28,7 +28,7 @@ function App() {
         <Navbar />
         <div className='row' style={{ display: 'flex' }}>
           <div>
-          <Carousel />
+          <Carousel/>
           </div>
           <div>
             <div className="MainPanel">
